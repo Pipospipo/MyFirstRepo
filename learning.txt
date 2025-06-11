@@ -1,3 +1,5 @@
+What I have learned from this course
+
 yo 
 I have learned to connect using ssh 
 clone the repo and do my edits then push to github 
