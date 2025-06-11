@@ -1,0 +1,7 @@
+yo 
+I have learned to connect using ssh 
+clone the repo and do my edits then push to github 
+tried a couple of commands though i don't remember most of them 
+I forgot to type a commit message on github so i had to add it using git 
+git commit --amend -m "your new commit message"
+git push --force yourrepo
